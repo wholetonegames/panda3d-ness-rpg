@@ -1,0 +1,12 @@
+[Chara A]
+* charaA
+Ok, {charaB}, seems like we're all set up!
+# this is a comment, it shouldn't be seen by the player
+* charaB
+I, {charaB}, thank you for your help, {charaA}
+* charaA
+Byes
+
+[Chara A outtake]
+* charaA
+cool

@@ -1,0 +1,29 @@
+[Chara B]
+
+* charaB
+
+really
+before 'It works'
+
+@ [It works]
+
+[It works]
+It does work indeed
+
+[Chara B HP]
+
+* charaA
+
+{charaB}, I am about to increase your energy!
+
+# this method should be in game, otherwise it won't work
+
+*
+
+# clearing the speaker slot
+
+
+
+* charaB
+
+Thank you, {charaA}

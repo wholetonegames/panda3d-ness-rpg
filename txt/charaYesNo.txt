@@ -1,0 +1,10 @@
+[Test YN]
+%
+Do you want to quit?
+& YES
+# $.quit()
+@ [Chara A]
+& NO
+# $.jumpToRandomLabel()
+@ [Chara B]
+%

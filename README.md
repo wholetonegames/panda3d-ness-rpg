@@ -1,2 +1,3 @@
-# panda3d-ness-rpg
-Earthbound is property of Nintendo
+# ness
+
+This is a project that continues the work from my sample JRPG. This has also been abandoned and is in the public domain now.
